@@ -1,0 +1,19 @@
+{
+  "name": "expressjs-authentication",
+  "version": "1.0.0",
+  "description": "A simple RESTful API for authentication that uses MongoDB as its database and Express JS as its back-end framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiBehoftadeh/expressjs-authentication.git"
+  },
+  "author": "Mahdi Behoftadeh - (behoftadeh.ir)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MahdiBehoftadeh/expressjs-authentication/issues"
+  },
+  "homepage": "https://github.com/MahdiBehoftadeh/expressjs-authentication#readme"
+}
